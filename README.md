@@ -23,7 +23,7 @@ The CLI made to preprocess the database and save your **time**:clock1:
 
 ## Run
 
-- Clone this Repository: `git clone https://github.com/utkryuk/ML-Preprocessor-CLI.git`
+- Clone this Repository: `gh repo clone ROHANPATAKAR/ml-preprocessor-cli`
 - `cd ML-Preprocessor-CLI/`
 - `pip3 install -r requirements.txt`
 - Now run, python3 `main.py` [Dataset's Path]
