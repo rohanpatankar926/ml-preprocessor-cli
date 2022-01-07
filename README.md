@@ -1,3 +1,4 @@
+#MY MACHINE LEARNING PROJECT
 # :zap: ML Preprocessor CLI
 
 The CLI made to preprocess the database and save your **time**:clock1:
@@ -17,7 +18,7 @@ The CLI made to preprocess the database and save your **time**:clock1:
 - [x] Implement try-catch
 - [x] Handling case in the input
 - [x] Adding Emoji's
-- [ ] Implementing graph functions for Analysis
+- [x] Implementing graph functions for Analysis
 - [x] Adding Comments
 
 ## Run
@@ -35,10 +36,4 @@ The CLI made to preprocess the database and save your **time**:clock1:
     <img alt="Home screen" src="./screenshots/homeScreen.png" width="80%"/>
 </p>
 
-## Future Scope
-
-- Implementing GUI of this project.
-- Implement Undo and Redo for the Database.
-- Implement other preprocessing steps.
-
-#### If you have any questions, just let me know [here.](mailto:utkryuk@gmail.com)
+#### If you have any questions, just let me know [here.](mailto:rohanpatankar926@gmail.com)
